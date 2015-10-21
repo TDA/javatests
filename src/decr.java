@@ -37,7 +37,6 @@ public class decr {
 	    }
 	    String str = new String(arrayOfChar2);
 	    return str;
-	    str.codePointAt(arg0);
 	  }
 	  
 

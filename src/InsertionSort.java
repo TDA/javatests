@@ -19,6 +19,9 @@ public class InsertionSort {
                     input[j-1] = temp;
                 }
             }
+            for (int in : input) {
+                System.out.print(in);
+            }
         }
         return input;
     }
